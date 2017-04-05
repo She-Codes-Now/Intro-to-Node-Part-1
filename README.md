@@ -1,5 +1,4 @@
-# Intro to Node
-## PART I - How does it work?
+# Intro to Node (PART I - How does it work?)
 
 This workshop was hosted by SheCodesNow: https://www.meetup.com/She-Codes-Now/ 
 
