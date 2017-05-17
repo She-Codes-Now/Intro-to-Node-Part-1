@@ -5,7 +5,6 @@
   "dependencies":
   {
     "express": "~4.0.0",
-    "mysql": "*",
     "ejs": "~1.0.0"
   }
 }
