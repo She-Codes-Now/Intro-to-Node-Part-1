@@ -76,7 +76,7 @@ var hello = require("../services/hello-world.js");
      
 ```
 
-(Phase 4) Personalize it with parameters! (http://.../phase4)
+(Phase 4) Personalize it with parameters! (http://.../phase4?greeting=Hi&name=Alejandra)
 ```javascript
 
 // Below the phase3 "app.get() function"
