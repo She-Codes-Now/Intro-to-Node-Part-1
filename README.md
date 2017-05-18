@@ -32,7 +32,7 @@ npm install
 (4) Start the server by opening the "server.js" file and clickign the "Run" button
 
 
-# Copy and Pase Code to follow along with (in router/main.js)
+# Copy and Paste Code to follow along with (in router/main.js)
 
 (Phase 1) Hard Coded "Hello!"  (http://.../)
 
